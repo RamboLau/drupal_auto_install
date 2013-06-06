@@ -47,12 +47,6 @@ projects[services][version] = 3.4
 projects[services][type] = "module"
 projects[smtp][version] = 1.0                                                            
 projects[smtp][type] = "module"   
-;projects[forum][type] = "module"
-;projects[forum][download][type] = "git"
-;projects[forum][download][url] = "git@git.verycloud.cn:verycloud/forum.git"
-projects[service_modules][type] = "module"                                              
-projects[service_modules][download][type] = "git"   
-projects[service_modules][download][url] = "git@git.verycloud.cn:verycloud/service_modules.git"     
 
 
   
